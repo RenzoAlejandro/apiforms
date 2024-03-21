@@ -1,0 +1,384 @@
+{
+    "LISTAS": [
+        {
+            "nameDoctor": "Dr. Luis Noriega Hoces",
+            "codeDoctor": "PRO000000014",
+            "gen": "M",
+            "Sedes_a_las_que_Pertenece":[
+                {
+                    "name_sede":"Concebir San Isidro",
+                    "code_sede":"SI"
+                },
+                {
+                    "name_sede":"Concebir Monterrico",
+                    "code_sede":"MO"
+                },
+                {
+                    "name_sede":"Concebir Trujillo",
+                    "code_sede":"TR"
+                }
+            ]
+        },
+        {
+            "nameDoctor": "Dr. Luis Noriega Portella",
+            "codeDoctor": "PRO000000015",
+            "gen": "M",
+            "Sedes_a_las_que_Pertenece":[
+                {
+                    "name_sede":"Concebir San Isidro",
+                    "code_sede":"SI"
+                },
+                {
+                    "name_sede":"Concebir Monterrico",
+                    "code_sede":"MO"
+                },
+                {
+                    "name_sede":"Concebir Chiclayo",
+                    "code_sede":"CH"
+                },
+                {
+                    "name_sede":"Concebir Trujillo",
+                    "code_sede":"TR"
+                }
+            ]
+        },
+        {
+            "nameDoctor": "Dr. Carlos Noriega Ortiz",
+            "codeDoctor": "PRO000000374",
+            "gen":"M",
+            "Sedes_a_las_que_Pertenece":[
+                {
+                    "name_sede":"Concebir San Isidro",
+                    "code_sede":"SI"
+                },
+                {
+                    "name_sede":"Concebir Chiclayo",
+                    "code_sede":"CH"
+                },
+                {
+                    "name_sede":"Concebir San Miguel",
+                    "code_sede":"SM"
+                }
+            ]
+        },
+        {
+            "nameDoctor": "Dra. Anet Arias Escalona",
+            "codeDoctor": "PRO000000458",
+            "gen":"F",
+            "Sedes_a_las_que_Pertenece":[
+                {
+                    "name_sede":"Concebir San Juan de Lurigancho",
+                    "code_sede":"SL"
+                },
+                {
+                    "name_sede":"Concebir Los Olivos",
+                    "code_sede":"LO"
+                },
+                {
+                    "name_sede":"Concebir San Isidro",
+                    "code_sede":"SI"
+                }
+            ]
+        },
+        {
+            "nameDoctor": "Dra. Fiorella Castillo Velasquez",
+            "codeDoctor": "PRO000000441",
+            "gen":"F",
+            "Sedes_a_las_que_Pertenece":[
+                {
+                    "name_sede":"Concebir San Juan de Lurigancho",
+                    "code_sede":"SL"
+                },
+                {
+                    "name_sede":"Concebir San Isidro",
+                    "code_sede":"SI"
+                }
+            ]
+        },
+        {
+            "nameDoctor": "Dr. Juan Vigo Caballero",
+            "codeDoctor": "PRO000000582",
+            "gen":"M",
+            "Sedes_a_las_que_Pertenece":[
+                {
+                    "name_sede":"Concebir San Juan de Lurigancho",
+                    "code_sede":"SL"
+                },
+                {
+                    "name_sede":"Concebir Lima Centro",
+                    "code_sede":"LC"
+                },
+                {
+                    "name_sede":"Concebir San Isidro",
+                    "code_sede":"SI"
+                }
+            ]
+        },
+        {
+            "nameDoctor": "Dr. Johan Figueiredo Martinez",
+            "codeDoctor": "PRO000000381",
+            "gen":"M",
+            "Sedes_a_las_que_Pertenece":[
+                {
+                    "name_sede":"Concebir Arequipa",
+                    "code_sede":"AR"
+                }
+            ]
+        },
+        {
+            "nameDoctor": "Dra. Mariella Pita Mejia",
+            "codeDoctor": "PRO000000083",
+            "gen":"F",
+            "Sedes_a_las_que_Pertenece":[
+                {
+                    "name_sede":"Concebir Arequipa",
+                    "code_sede":"AR"
+                },
+                {
+                    "name_sede":"Concebir Los Olivos",
+                    "code_sede":"LO"
+                },
+                {
+                    "name_sede":"Concebir San Isidro",
+                    "code_sede":"SI"
+                },
+                {
+                    "name_sede":"Concebir San Juan de Miraflores",
+                    "code_sede":"JM"
+                }
+            ]
+        },
+        {
+            "nameDoctor": "Dra. Pamela Alarcon Villanueva",
+            "codeDoctor": "PRO000000677",
+            "gen":"F",
+            "Sedes_a_las_que_Pertenece":[
+                {
+                    "name_sede":"Concebir Arequipa",
+                    "code_sede":"AR"
+                }
+            ]
+        },
+        {
+            "nameDoctor": "Dra. Carmen Sanchez Alfaro",
+            "codeDoctor": "PRO000000693",
+            "gen":"F",
+            "Sedes_a_las_que_Pertenece":[
+                {
+                    "name_sede":"Concebir Cajamarca",
+                    "code_sede":"CJ"
+                }
+            ]
+        },
+        {
+            "nameDoctor": "Dr. Johan Roque Alavarado",
+            "codeDoctor": "PRO000000662",
+            "gen":"M",
+            "Sedes_a_las_que_Pertenece":[
+                {
+                    "name_sede":"Concebir Chiclayo",
+                    "code_sede":"CH"
+                }
+            ]
+        },
+        {
+            "nameDoctor": "Dr. Walter Martinez Rivera",
+            "codeDoctor": "PRO000000630",
+            "gen":"M",
+            "Sedes_a_las_que_Pertenece":[
+                {
+                    "name_sede":"Concebir Huanuco",
+                    "code_sede":"HN"
+                }
+            ]
+        },
+        {
+            "nameDoctor": "Dra. Stephanie Rodriguez Gutierrez",
+            "codeDoctor": "PRO000000589",
+            "gen":"F",
+            "Sedes_a_las_que_Pertenece":[
+                {
+                    "name_sede":"Concebir Huanuco",
+                    "code_sede":"HN"
+                },
+                {
+                    "name_sede":"Concebir Lima Centro",
+                    "code_sede":"LC"
+                },
+                {
+                    "name_sede":"Concebir Los Olivos",
+                    "code_sede":"LO"
+                },
+                {
+                    "name_sede":"Concebir San Isidro",
+                    "code_sede":"SI"
+                },
+                {
+                    "name_sede":"Concebir San Miguel",
+                    "code_sede":"SM"
+                }
+            ]
+        },
+        {
+            "nameDoctor": "Dra. Maribel Tarapaqui Osorio",
+            "codeDoctor": "PRO000000694",
+            "gen":"F",
+            "Sedes_a_las_que_Pertenece":[
+                {
+                    "name_sede":"Concebir Ica",
+                    "code_sede":"CI"
+                }
+            ]
+        },
+        {
+            "nameDoctor": "Dra. Isabel Martell Castillo",
+            "codeDoctor": "PRO000000634",
+            "gen":"F",
+            "Sedes_a_las_que_Pertenece":[
+                {
+                    "name_sede":"Concebir Lima Centro",
+                    "code_sede":"LC"
+                },
+                {
+                    "name_sede":"Concebir Los Olivos",
+                    "code_sede":"LO"
+                },
+                {
+                    "name_sede":"Concebir San Isidro",
+                    "code_sede":"SI"
+                },
+                {
+                    "name_sede":"Concebir Santa Anita",
+                    "code_sede":"CA"
+                }
+            ]
+        },
+        {
+            "nameDoctor": "Dra. Alicia Elias Escudero",
+            "codeDoctor": "PRO000000059",
+            "gen":"F",
+            "Sedes_a_las_que_Pertenece":[
+                {
+                    "name_sede":"Concebir Los Olivos",
+                    "code_sede":"LO"
+                },
+                {
+                    "name_sede":"Concebir San Isidro",
+                    "code_sede":"SI"
+                }
+            ]
+        },
+        {
+            "nameDoctor": "Dra. Patricia Muñoz Abanto",
+            "codeDoctor": "PRO000000622",
+            "gen":"F",
+            "Sedes_a_las_que_Pertenece":[
+                {
+                    "name_sede":"Concebir Los Olivos",
+                    "code_sede":"LO"
+                },
+                {
+                    "name_sede":"Concebir San Isidro",
+                    "code_sede":"SI"
+                },
+                {
+                    "name_sede":"Concebir San Juan de Miraflores",
+                    "code_sede":"JM"
+                }
+            ]
+        },
+        {
+            "nameDoctor": "Dr. Cesar Reategui Alcantara",
+            "codeDoctor": "PRO000000583",
+            "gen":"M",
+            "Sedes_a_las_que_Pertenece":[
+                {
+                    "name_sede":"Concebir San Isidro",
+                    "code_sede":"SI"
+                },
+                {
+                    "name_sede":"Concebir San Juan de Miraflores",
+                    "code_sede":"JM"
+                },
+                {
+                    "name_sede":"Concebir Santa Anita",
+                    "code_sede":"CA"
+                },
+                {
+                    "name_sede":"Concebir Trujillo",
+                    "code_sede":"TR"
+                }
+            ]
+        },
+        {
+            "nameDoctor": "Dra. Silvia Ortiz Huerto",
+            "codeDoctor": "PRO000000375",
+            "gen":"F",
+            "Sedes_a_las_que_Pertenece":[
+                {
+                    "name_sede":"Concebir San Isidro",
+                    "code_sede":"SI"
+                }
+            ]
+        },
+        {
+            "nameDoctor": "Dra. Susana Sanchez Morales",
+            "codeDoctor": "PRO000000066",
+            "gen":"F",
+            "Sedes_a_las_que_Pertenece":[
+                {
+                    "name_sede":"Concebir San Isidro",
+                    "code_sede":"SI"
+                },
+                {
+                    "name_sede":"Concebir San Juan de Miraflores",
+                    "code_sede":"JM"
+                }
+            ]
+        },
+        {
+            "nameDoctor": "Dra. Silvana Bardalez Pacheco",
+            "codeDoctor": "PRO000000304",
+            "gen":"F",
+            "Sedes_a_las_que_Pertenece":[
+                {
+                    "name_sede":"Concebir Santa Anita",
+                    "code_sede":"CA"
+                }
+            ]
+        },
+        {
+            "nameDoctor": "Dr.Edwin Canales Rimachi",
+            "codeDoctor": "PRO000000041",
+            "gen":"M",
+            "Sedes_a_las_que_Pertenece":[
+                {
+                    "name_sede":"Concebir San Miguel",
+                    "code_sede":"SM"
+                }
+            ]
+        },
+        {
+            "nameDoctor": "Dra. Maria Quiroga Reategui",
+            "codeDoctor": "PRO000000282",
+            "gen":"F",
+            "Sedes_a_las_que_Pertenece":[
+                {
+                    "name_sede":"Concebir Trujillo",
+                    "code_sede":"TR"
+                }
+            ]
+        },
+        {
+            "nameDoctor": "Dra. Pamela Villanueva Zuñiga",
+            "codeDoctor": "PRO000000040",
+            "gen":"F",
+            "Sedes_a_las_que_Pertenece":[
+                {
+                    "name_sede":"Concebir Monterrico",
+                    "code_sede":"MO"
+                }
+            ]
+        }
+    ]
+}
