@@ -6,15 +6,15 @@
             "gen": "M",
             "Sedes_a_las_que_Pertenece":[
                 {
-                    "name_sede":"Concebir San Isidro",
+                    "name_sede":"San Isidro",
                     "code_sede":"SI"
                 },
                 {
-                    "name_sede":"Concebir Monterrico",
+                    "name_sede":"Monterrico",
                     "code_sede":"MO"
                 },
                 {
-                    "name_sede":"Concebir Trujillo",
+                    "name_sede":"Trujillo",
                     "code_sede":"TR"
                 }
             ]
@@ -25,19 +25,19 @@
             "gen": "M",
             "Sedes_a_las_que_Pertenece":[
                 {
-                    "name_sede":"Concebir San Isidro",
+                    "name_sede":"San Isidro",
                     "code_sede":"SI"
                 },
                 {
-                    "name_sede":"Concebir Monterrico",
+                    "name_sede":"Monterrico",
                     "code_sede":"MO"
                 },
                 {
-                    "name_sede":"Concebir Chiclayo",
+                    "name_sede":"Chiclayo",
                     "code_sede":"CH"
                 },
                 {
-                    "name_sede":"Concebir Trujillo",
+                    "name_sede":"Trujillo",
                     "code_sede":"TR"
                 }
             ]
@@ -48,11 +48,11 @@
             "gen":"M",
             "Sedes_a_las_que_Pertenece":[
                 {
-                    "name_sede":"Concebir San Isidro",
+                    "name_sede":"San Isidro",
                     "code_sede":"SI"
                 },
                 {
-                    "name_sede":"Concebir Chiclayo",
+                    "name_sede":"Chiclayo",
                     "code_sede":"CH"
                 },
                 {
@@ -67,15 +67,15 @@
             "gen":"F",
             "Sedes_a_las_que_Pertenece":[
                 {
-                    "name_sede":"Concebir San Juan de Lurigancho",
+                    "name_sede":"San Juan de Lurigancho",
                     "code_sede":"SL"
                 },
                 {
-                    "name_sede":"Concebir Los Olivos",
+                    "name_sede":"Los Olivos",
                     "code_sede":"LO"
                 },
                 {
-                    "name_sede":"Concebir San Isidro",
+                    "name_sede":"San Isidro",
                     "code_sede":"SI"
                 }
             ]
@@ -86,11 +86,11 @@
             "gen":"F",
             "Sedes_a_las_que_Pertenece":[
                 {
-                    "name_sede":"Concebir San Juan de Lurigancho",
+                    "name_sede":"San Juan de Lurigancho",
                     "code_sede":"SL"
                 },
                 {
-                    "name_sede":"Concebir San Isidro",
+                    "name_sede":"San Isidro",
                     "code_sede":"SI"
                 }
             ]
@@ -101,15 +101,15 @@
             "gen":"M",
             "Sedes_a_las_que_Pertenece":[
                 {
-                    "name_sede":"Concebir San Juan de Lurigancho",
+                    "name_sede":"San Juan de Lurigancho",
                     "code_sede":"SL"
                 },
                 {
-                    "name_sede":"Concebir Lima Centro",
+                    "name_sede":"Lima Centro",
                     "code_sede":"LC"
                 },
                 {
-                    "name_sede":"Concebir San Isidro",
+                    "name_sede":"San Isidro",
                     "code_sede":"SI"
                 }
             ]
@@ -120,7 +120,7 @@
             "gen":"M",
             "Sedes_a_las_que_Pertenece":[
                 {
-                    "name_sede":"Concebir Arequipa",
+                    "name_sede":"Arequipa",
                     "code_sede":"AR"
                 }
             ]
@@ -131,19 +131,19 @@
             "gen":"F",
             "Sedes_a_las_que_Pertenece":[
                 {
-                    "name_sede":"Concebir Arequipa",
+                    "name_sede":"Arequipa",
                     "code_sede":"AR"
                 },
                 {
-                    "name_sede":"Concebir Los Olivos",
+                    "name_sede":"Los Olivos",
                     "code_sede":"LO"
                 },
                 {
-                    "name_sede":"Concebir San Isidro",
+                    "name_sede":"San Isidro",
                     "code_sede":"SI"
                 },
                 {
-                    "name_sede":"Concebir San Juan de Miraflores",
+                    "name_sede":"San Juan de Miraflores",
                     "code_sede":"JM"
                 }
             ]
@@ -154,7 +154,7 @@
             "gen":"F",
             "Sedes_a_las_que_Pertenece":[
                 {
-                    "name_sede":"Concebir Arequipa",
+                    "name_sede":"Arequipa",
                     "code_sede":"AR"
                 }
             ]
@@ -165,7 +165,7 @@
             "gen":"F",
             "Sedes_a_las_que_Pertenece":[
                 {
-                    "name_sede":"Concebir Cajamarca",
+                    "name_sede":"Cajamarca",
                     "code_sede":"CJ"
                 }
             ]
@@ -176,7 +176,7 @@
             "gen":"M",
             "Sedes_a_las_que_Pertenece":[
                 {
-                    "name_sede":"Concebir Chiclayo",
+                    "name_sede":"Chiclayo",
                     "code_sede":"CH"
                 }
             ]
@@ -187,7 +187,7 @@
             "gen":"M",
             "Sedes_a_las_que_Pertenece":[
                 {
-                    "name_sede":"Concebir Huanuco",
+                    "name_sede":"Huanuco",
                     "code_sede":"HN"
                 }
             ]
@@ -198,23 +198,23 @@
             "gen":"F",
             "Sedes_a_las_que_Pertenece":[
                 {
-                    "name_sede":"Concebir Huanuco",
+                    "name_sede":"Huanuco",
                     "code_sede":"HN"
                 },
                 {
-                    "name_sede":"Concebir Lima Centro",
+                    "name_sede":"Lima Centro",
                     "code_sede":"LC"
                 },
                 {
-                    "name_sede":"Concebir Los Olivos",
+                    "name_sede":"Los Olivos",
                     "code_sede":"LO"
                 },
                 {
-                    "name_sede":"Concebir San Isidro",
+                    "name_sede":"San Isidro",
                     "code_sede":"SI"
                 },
                 {
-                    "name_sede":"Concebir San Miguel",
+                    "name_sede":"San Miguel",
                     "code_sede":"SM"
                 }
             ]
@@ -225,8 +225,8 @@
             "gen":"F",
             "Sedes_a_las_que_Pertenece":[
                 {
-                    "name_sede":"Concebir Ica",
-                    "code_sede":"CI"
+                    "name_sede":"Ica",
+                    "code_sede":"IC"
                 }
             ]
         },
@@ -236,20 +236,20 @@
             "gen":"F",
             "Sedes_a_las_que_Pertenece":[
                 {
-                    "name_sede":"Concebir Lima Centro",
+                    "name_sede":"Lima Centro",
                     "code_sede":"LC"
                 },
                 {
-                    "name_sede":"Concebir Los Olivos",
+                    "name_sede":"Los Olivos",
                     "code_sede":"LO"
                 },
                 {
-                    "name_sede":"Concebir San Isidro",
+                    "name_sede":"San Isidro",
                     "code_sede":"SI"
                 },
                 {
-                    "name_sede":"Concebir Santa Anita",
-                    "code_sede":"CA"
+                    "name_sede":"Santa Anita",
+                    "code_sede":"SA"
                 }
             ]
         },
@@ -259,11 +259,11 @@
             "gen":"F",
             "Sedes_a_las_que_Pertenece":[
                 {
-                    "name_sede":"Concebir Los Olivos",
+                    "name_sede":"Los Olivos",
                     "code_sede":"LO"
                 },
                 {
-                    "name_sede":"Concebir San Isidro",
+                    "name_sede":"San Isidro",
                     "code_sede":"SI"
                 }
             ]
@@ -274,15 +274,15 @@
             "gen":"F",
             "Sedes_a_las_que_Pertenece":[
                 {
-                    "name_sede":"Concebir Los Olivos",
+                    "name_sede":"Los Olivos",
                     "code_sede":"LO"
                 },
                 {
-                    "name_sede":"Concebir San Isidro",
+                    "name_sede":"San Isidro",
                     "code_sede":"SI"
                 },
                 {
-                    "name_sede":"Concebir San Juan de Miraflores",
+                    "name_sede":"San Juan de Miraflores",
                     "code_sede":"JM"
                 }
             ]
@@ -293,19 +293,19 @@
             "gen":"M",
             "Sedes_a_las_que_Pertenece":[
                 {
-                    "name_sede":"Concebir San Isidro",
+                    "name_sede":"San Isidro",
                     "code_sede":"SI"
                 },
                 {
-                    "name_sede":"Concebir San Juan de Miraflores",
+                    "name_sede":"San Juan de Miraflores",
                     "code_sede":"JM"
                 },
                 {
-                    "name_sede":"Concebir Santa Anita",
-                    "code_sede":"CA"
+                    "name_sede":"Santa Anita",
+                    "code_sede":"SA"
                 },
                 {
-                    "name_sede":"Concebir Trujillo",
+                    "name_sede":"Trujillo",
                     "code_sede":"TR"
                 }
             ]
@@ -316,7 +316,7 @@
             "gen":"F",
             "Sedes_a_las_que_Pertenece":[
                 {
-                    "name_sede":"Concebir San Isidro",
+                    "name_sede":"San Isidro",
                     "code_sede":"SI"
                 }
             ]
@@ -327,11 +327,11 @@
             "gen":"F",
             "Sedes_a_las_que_Pertenece":[
                 {
-                    "name_sede":"Concebir San Isidro",
+                    "name_sede":"San Isidro",
                     "code_sede":"SI"
                 },
                 {
-                    "name_sede":"Concebir San Juan de Miraflores",
+                    "name_sede":"San Juan de Miraflores",
                     "code_sede":"JM"
                 }
             ]
@@ -342,8 +342,8 @@
             "gen":"F",
             "Sedes_a_las_que_Pertenece":[
                 {
-                    "name_sede":"Concebir Santa Anita",
-                    "code_sede":"CA"
+                    "name_sede":"Santa Anita",
+                    "code_sede":"SA"
                 }
             ]
         },
@@ -353,7 +353,7 @@
             "gen":"M",
             "Sedes_a_las_que_Pertenece":[
                 {
-                    "name_sede":"Concebir San Miguel",
+                    "name_sede":"San Miguel",
                     "code_sede":"SM"
                 }
             ]
@@ -364,7 +364,7 @@
             "gen":"F",
             "Sedes_a_las_que_Pertenece":[
                 {
-                    "name_sede":"Concebir Trujillo",
+                    "name_sede":"Trujillo",
                     "code_sede":"TR"
                 }
             ]
@@ -375,7 +375,7 @@
             "gen":"F",
             "Sedes_a_las_que_Pertenece":[
                 {
-                    "name_sede":"Concebir Monterrico",
+                    "name_sede":"Monterrico",
                     "code_sede":"MO"
                 }
             ]
